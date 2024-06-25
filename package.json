@@ -1,0 +1,30 @@
+{
+  "name": "zdq",
+  "version": "0.0.2",
+  "description": "Simple CLI util for testing Zig code with the help of Docker + QEMU",
+  "main": "index.js",
+  "bin": "./index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chung-leong/zdq.git"
+  },
+  "keywords": [
+    "zig",
+    "docker",
+    "qemu",
+    "test"
+  ],
+  "files": [
+    "index.js"
+  ],
+  "author": "Chung Leong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chung-leong/zdq/issues"
+  },
+  "homepage": "https://github.com/chung-leong/zdq#readme"
+}
